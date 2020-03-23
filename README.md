@@ -12,3 +12,5 @@ For using this tool you need to have an API key. If you do not have it contact u
     
 * Submit "www.phishing-website.com" as phishing website.
     * ```python sic-feedback.py -u 'www.phishing-website.com' -l 2```
+### Requirements
+* Python 3
